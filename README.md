@@ -25,6 +25,40 @@ Production-grade Retrieval-Augmented Generation (RAG) platform built using:
 
 ---
 
+# Screenshots
+
+## Frontend UI
+
+Interactive enterprise AI assistant interface built with Next.js.
+
+![Frontend UI](docs/screenshots/frontend-ui.png)
+
+---
+
+## FastAPI Swagger API Docs
+
+Production-ready FastAPI backend with automatic OpenAPI documentation.
+
+![API Docs](docs/screenshots/api-docs.png)
+
+---
+
+## Dockerized PostgreSQL + pgvector
+
+PostgreSQL running inside Docker with pgvector extension enabled for vector similarity search.
+
+![Docker](docs/screenshots/docker.png)
+
+---
+
+## Semantic Vector Retrieval (RAG)
+
+Semantic search retrieving relevant document chunks using vector embeddings.
+
+![RAG Search](docs/screenshots/rag-search.png)
+
+---
+
 # Architecture
 
 User Query
