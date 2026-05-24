@@ -76,6 +76,18 @@ Ollama LLM
 ↓
 Final AI Response
 
+# Architecture Diagram
+
+Frontend (Next.js)
+        ↓
+FastAPI Backend
+        ↓
+Semantic Search
+        ↓
+PostgreSQL + pgvector
+        ↓
+LLM (Groq/OpenAI)
+
 ---
 
 # Tech Stack
