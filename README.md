@@ -32,6 +32,7 @@ Production-grade Retrieval-Augmented Generation (RAG) platform built using:
 Interactive enterprise AI assistant interface built with Next.js.
 
 ![Frontend UI](docs/screenshots/frontend-ui.png)
+![Frontend UI - 2](docs/screenshots/frontend-ui-2.png)
 
 ---
 
