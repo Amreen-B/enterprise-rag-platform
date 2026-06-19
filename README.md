@@ -159,16 +159,4 @@ Example Request:
 
 ---
 
-# Future Improvements
-
-- JWT Authentication
-- Multi-user support
-- Cloud deployment
-- Streaming responses
-- LangChain integration
-- Multi-document upload
-- Admin dashboard
-
----
-
 Author: Amreen
